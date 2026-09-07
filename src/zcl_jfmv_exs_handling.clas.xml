@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_JFMV_AGENCY_MODEL</CLSNAME>
+    <CLSNAME>ZCL_JFMV_EXS_HANDLING</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Agency Model Class</DESCRIPT>
+    <DESCRIPT>Exception Class local</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
