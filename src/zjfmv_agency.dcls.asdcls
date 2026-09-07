@@ -1,0 +1,7 @@
+@EndUserText.label: 'Control access'
+@MappingRole: true
+define role ZJFMV_AGENCY {
+    grant select on ZJFMV_AGENCY
+    where ( agency_id ) = aspect pfcg_auth( /LRN/AGCY, /LRN/AGCY, ACTVT = '03' );
+}
+                        
